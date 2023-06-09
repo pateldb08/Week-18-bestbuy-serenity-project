@@ -1,0 +1,7 @@
+com\bestbuy\testsuite\ProductsAssertionTest.class
+com\bestbuy\testbase\TestBase.class
+com\bestbuy\testsuite\StoreExtractionTest.class
+com\bestbuy\crudtest\StoresCRUDTest.class
+com\bestbuy\testsuite\StoreAssertionTest.class
+com\bestbuy\crudtest\ProductsCRUDTest.class
+com\bestbuy\testsuite\ProductsExtractionTest.class
